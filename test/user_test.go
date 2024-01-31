@@ -38,7 +38,7 @@ func TestUserValid(t *testing.T)  {
 			Email: "dreamkanathip@gmail.com",
 			Profile: "abcdefg",
 			Phone: "0123456789",
-			URL: "https://github.com/dreamkanathip/LabExamFinal",
+			URL: "https://github.com/Naphazze/labfinal/pulls",
 		}
 		ok,err := govalidator.ValidateStruct(user)
 
