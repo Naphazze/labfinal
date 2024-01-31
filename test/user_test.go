@@ -47,4 +47,4 @@ func TestUserValid(t *testing.T)  {
 
 		g.Expect(err.Error()).To(Equal("ขึ้นต้นด้วย BMD เท่านั้น"))
 	})
-}
+} 
